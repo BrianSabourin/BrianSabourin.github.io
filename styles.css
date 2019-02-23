@@ -1,1 +1,9 @@
 h1 {color: indigo; font-size: 25pt; font-family: Bitter;} 
+
+body {background: silver; color: navyblue; font-size: 16pt; font-family: 'Oswald';}
+
+p {color: navy; font-weight: bold;}
+
+a:hover {color: blue}
+
+nav {display: inline-block; border: 4px solid navy; padding: 10px; margin-right: 20px; background: yellow;}
